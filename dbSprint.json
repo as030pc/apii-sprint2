@@ -1,0 +1,114 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "title": "El escuadrón suicida",
+            "genero": "Acción, Aventura, Fantasía, Comedia",
+            "descripcion": "Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.",
+            "duracion": "2h 12m",
+            "lanzamiento": "2021",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630898611/ImagesDB/fPJWlhXA2VXf4MlQ3JenVsz1iba_wk0lyk.jpg",
+            "puntuacion": "80"
+        },
+        {
+            "id": 2,
+            "title": "Shang-Chi y la leyenda de los Diez Anillos ",
+            "genero": "Acción, Aventura, Fantasía",
+            "descripcion": "The Weeknd",
+            "duracion": "2h 12m",
+            "lanzamiento": "2021",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630898823/ImagesDB/lE8Pet7FMzOFUBMToH7l7g1XAny_qefeti.jpg",
+            "puntuacion": "5.5"
+        },
+        {
+            "id": 3,
+            "title": "Un ciudadano ejemplar",
+            "genero": "Drama, Crimen, Suspense",
+            "descripcion": "Clyde Shelton es un ciudadano normal que lo ha perdido todo. Diez años antes su mujer y su hija fueron brutalmente asesinadas y los criminales nunca fueron condenados. El culpable es Nick Rice, el ambicioso ayudante del fiscal del distrito, porque hizo un pacto con el abogado de uno de ellos. Pero Clyde descubre ese acuerdo, y su deseo de venganza lo lleva a cometer una serie de asesinatos",
+            "duracion": "1h 49m",
+            "lanzamiento": "2009",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630899102/ImagesDB/qcmMHHGQA8CjzZkr5OeBpM6kmcT_q6g5zz.jpg",
+            "puntuacion": "5.5"
+        },
+        {
+            "id": 4,
+            "title": "The Ring 2",
+            "genero": "Terror, Misterio, Ciencia ficción",
+            "descripcion": "Una mujer está investigando la misteriosa muerte de su novio, cuando le llegan los rumores de una cinta de video maldita según la cual toda aquella persona que la ve muere una semana después. La pista la lleva hacia la ex esposa del fallecido y a su hijo, pero hay un problema: están desaparecido",
+            "duracion": "1h 35m",
+            "lanzamiento": "1999",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630899242/ImagesDB/crQnoZBTMnv30PsEFnS8h9cPDDF_ndlatq.jpg",
+            "puntuacion": "5.5"
+        },
+        {
+            "id": 5,
+            "title": "Fast & Furious 9",
+            "genero": "Acción, Crimen, Suspense",
+            "descripcion": "Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob. Novena entrega de la famosa franquicia.",
+            "duracion": "2h 22m",
+            "lanzamiento": "2021",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630899510/ImagesDB/aIyqWTuf6NouKphVlxzbv9pblxQ_lzllj1.jpg",
+            "puntuacion": "5.5"
+        },
+        {
+            "id": 6,
+            "title": "Cenicienta",
+            "genero": "Fantasía, Romance, Comedia",
+            "descripcion": "Una reinvención moderna del cuento tradicional de la niña huérfana con una madrastra malvada.",
+            "duracion": "1h 53m",
+            "lanzamiento": "2021",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630899778/ImagesDB/q3EG1UUwcwMJEcuXSgfzzLhRUZZ_hgludd.jpg",
+            "puntuacion": "5.5"
+        },
+        {
+            "id": 7,
+            "title": "Jungle Cruise",
+            "genero": "Aventura, Fantasía, Comedia, Acción",
+            "descripcion": "Principios del siglo XX. Frank es el carismático capitán de una peculiar embarcación que recorre la selva amazónica. Allí, a pesar de los peligros que el río Amazonas les tiene preparados, Frank llevará en su barco a la científica Lily Houghton y a su hermano McGregor Houghton. Su misión será encontrar un árbol místico que podría tener poderes curativos. Claro que su objetivo no será fácil, y en su aventura se encontrarán con toda clase de dificultades, además de una expedición alemana que busca también este árbol con propiedades curativas. Esta comedia de acción y aventuras está basada en la atracción Jungle Cruise de los parques de ocio de Disney.",
+            "duracion": "Starboy",
+            "lanzamiento": "2h 7m",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630898611/ImagesDB/fPJWlhXA2VXf4MlQ3JenVsz1iba_wk0lyk.jpg",
+            "puntuacion": "5.5"
+        },
+        {
+            "id": 8,
+            "title": "The Night House",
+            "genero": "Terror, Suspense",
+            "descripcion": "Mientras intenta superar la inesperada muerte de su marido, Beth (Rebecca Hall) se queda a solas en una casa cerca de un lago especialmente diseñada para ella. Aunque hace todo lo posible por no perder la cordura, los sueños no tardan en aparecer. Las perturbadoras visiones de una presencia que llama por ella en la casa comienzan a ser cada vez más frecuentes. Aunque a la luz del día todo parece normal, Beth empieza lentamente a desesperarse, por lo que decide ignorar el consejo de sus amigos e investiga en sus pertenencias tratando de encontrar alguna respuesta. Allí se topa no sólo con secretos tan extraños como terribles, sino también con un misterio que está dispuesta a resolver.",
+            "duracion": "1h 47m",
+            "lanzamiento": "2021",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630900452/ImagesDB/lLOXgf2F7hhOYpMUvi0vQ9lrYw3_r7hggs.jpg",
+            "puntuacion": "5.5"
+        },
+        {
+            "id": 9,
+            "title": "Incondicional",
+            "genero": "Drama",
+            "descripcion": "La idílica vida de una mujer se ve truncada cuando su marido es asesinado en un acto de violencia sin sentido. Mientras prepara su propia venganza, dos inesperados encuentros lo cambiarán todo.",
+            "duracion": "1h 32m",
+            "lanzamiento": "2012",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630900581/ImagesDB/utD4YdrlyktHAAM7Qt7hq4UppLX_uqku1r.jpg",
+            "puntuacion": "5.5"
+        },
+        {
+            "id": 10,
+            "title": "Una historia de venganza",
+            "genero": "Drama, suspense",
+            "descripcion": "Una historia de venganza narra la historia del accidente real de avión que tuvo lugar en Überlingen el 1 de julio de 2002, en el que murieron más de un centenar de personas tras el choque de dos aviones, y los sucesos que tuvieron lugar 478 días después. Roman (Schwarzenegger) es un padre que ha perdido todo lo que amaba en el accidente, por lo que dedicará todo su tiempo a buscar al responsable del accidente para tratar de hacer justicia.",
+            "duracion": "1h 32m",
+            "lanzamiento": "2017",
+            "imagen": "https://res.cloudinary.com/dobboq5dt/image/upload/v1630900732/ImagesDB/q6syqQylLh6VFjHE5UE0goUxg1d_byphfa.jpg",
+            "puntuacion": "5.5"
+        }
+    ],
+    "usuario": [
+        {
+            "id": 1,
+            "apellido": "Palma",
+            "nombre": "Castañeda",
+            "username": "andres.palma@udea.edu.co",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        }
+        
+    ]
+}
